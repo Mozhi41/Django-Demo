@@ -2,7 +2,7 @@
 
 - run pipenv shell to invoke the virtual environment
 
-- get MONGODB_HOST and MONGODB_PASS from Mozhi, put it in /.env
+- get MONGODB_HOST and MONGODB_PASS from Mozhi, put it in /demo1/.env
 
 - run python3 manage.py runserver to start the server
 
