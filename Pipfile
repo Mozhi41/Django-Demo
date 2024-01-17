@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+django = "*"
+django-debug-toolbar = "*"
+pymongo = "==3.12.3"
+djongo = "*"
+pytz = "*"
+dnspython = "*"
+python-decouple = "*"
+dojango = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
